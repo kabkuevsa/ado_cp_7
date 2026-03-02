@@ -1,0 +1,6 @@
+@ado_cp_7_HostAddress = http://localhost:5127
+
+GET {{ado_cp_7_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
